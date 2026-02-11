@@ -40,6 +40,10 @@ masters_students:
     last_name: May
     image: scott_may.jpg
 
+  - first_name: Jacob
+    last_name: Ethington
+    image: jacob_ethington.jpeg
+
 undergrad_students:
   - first_name: Bradford
     last_name: Bawden
