@@ -45,6 +45,10 @@ masters_students:
     last_name: Zaugg
     image: Chris_Zaugg.jpg
 
+  - first_name: Jacob
+    last_name: Ethington
+    image: Jacob_Ethington.jpg
+
 undergrad_students:
   - first_name: Ethan
     last_name: Hunter
